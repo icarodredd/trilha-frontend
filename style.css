@@ -70,3 +70,17 @@ section > div {
   color: #ffffff;
   text-align: center;
 }
+
+.motivation-title {
+  margin-top: 30px;
+  text-align: center;
+  background-color: #e53939;
+}
+
+.motivation-text {
+  font-size: large;
+  margin-top: 30px;
+  text-align: justify;
+  width: 80%;
+  color: #ffffff;
+}
