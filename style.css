@@ -26,3 +26,21 @@ header > div > h1 {
   font-size: medium;
   font-weight: bold;
 }
+
+section > div > img {
+  margin-top: 50px;
+  border-radius: 50%;
+}
+
+section > div {
+  display: flex;
+  justify-content: center;
+}
+
+.description {
+  font-size: large;
+  margin-top: 30px;
+  text-align: justify;
+  width: 70%;
+  color: #ffffff;
+}
